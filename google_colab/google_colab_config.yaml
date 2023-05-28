@@ -1,8 +1,8 @@
 
-path: '/content/gdrive/My Drive/yolov8 motorcycle/data' # dataset root dir
+path: '/content/gdrive/My Drive/yolov8 truck/data' # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/train  # val images (relative to 'path')
 
 # Classes
 names:
-  0: Motorcycle
+  0: Truck
